@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+[Google](https://google.com)
 
-**RemMyFav/RemMyFav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="./website.png" width=22px/>](https://google.com)
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![RemMyFav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemMyFav&theme=dracula&title_color=ff8d00&hide_border=true)](https://github.com/RemMyFav)
