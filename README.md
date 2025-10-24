@@ -1,50 +1,61 @@
-# Haike Yu (Henry)
+# 👋 Hi, I’m **Haike Yu (Henry)**  
+**M.S. Computer Science (Machine Learning Specialization)** @ *Georgia Tech (OMSCS)*  
+**B.Sc. Computer Science & Mathematics** @ *University of Toronto*  
 
-Welcome to my GitHub! I'm a Computer Science and Mathematics graduate from the University of Toronto, passionate about machine learning, AI, and data science. Feel free to explore my repositories and connect with me!
+I’m passionate about exploring the intersection of **Machine Learning and Psychology**,  
+and how data-driven systems can help us understand human emotion, language, and cognition.  
+Currently, I’m working on applied **Deep Learning** and **Speech Processing** projects,  
+and continually refining both my research intuition and hands-on engineering ability.
 
-## 🎓 Education
+---
 
-- **University of Toronto**
-  - Honours Bachelor of Science
-  - Specialization: Computer Science
-  - Major: Mathematics
-  - GPA: 3.1/4
-  - Key Courses: Scalable Computing, Machine Learning, Artificial Intelligence, Neural Networks and Deep Learning, Machine Learning Capstone Design for Vision
+## 🧠 Interests
+Over time, I’ve become deeply interested in the intersection of machine learning and psychology — particularly how the two fields can work together to help us better understand mental health, emotion, and human cognition. 
 
-## 💻 Skills
+---
+## 💼 Experience
 
-- **Programming Languages**: C, Java, Python, JavaScript, Bash, TypeScript, HTML, CSS, SQL, NoSQL
-- **Machine Learning Models**: CNNs, RNNs, Data Mining, Clustering, Regression
-- **Tools and Technologies**: TensorFlow, Anaconda, PyTorch, Jupyter Notebook, AWS
-- **Data Storage**: Apache Spark, MongoDB, Neo4j, MySQL, SQLite, Cassandra, Oracle, Redis
+### 🎙️ Machine Learning Intern — [Vosyn Inc.](https://vosyn.com) *(May 2025 – Present, Remote · Toronto, ON)*
+- Integrated **WhisperX + NeMo + FasterWhisper** into a GCP-based speech pipeline for speaker diarization and transcription.  
+- Improved **Word Diarization Error Rate (WDER)** stability by 25% through hybrid timestamp alignment.  
+- Built an internal evaluation platform for large-scale audio benchmarking (WER, cpWER, WDER).  
+- Refactored modules to balance GPU memory, inference latency, and pipeline reliability.  
+- Mentored new members on debugging and deployment workflows in a fast-paced startup environment.
 
-## 👨‍💼 Work Experience
+---
 
-- **Data Analysis Internship**
-  - People’s Bank Of China, Guiyang Central Branch
-  - Achievements: Improved risky loan identification by 13% through Oracle database updates, streamlined AI model training using Anaconda and NumPy with Neo4j.
+### 🏦 Data Analyst Intern — People’s Bank of China *(Jul 2023 – Aug 2023, Guiyang, CN)*
+- Reclassified loan categories via **Oracle SQL**, improving high-risk loan identification by 13%.  
+- Built APIs to streamline analytics workflows, enhancing cross-department data access efficiency.  
+- Experimented with **Neo4j** graph structures to support scalable machine-learning integration.
 
-- **System Architect Internship**
-  - Bank Of Guiyang Co. Ltd
-  - Role: Developed a web data crawling system using Python, Scrapy, Flask, and deployed on Ali Cloud.
+---
 
-## 🚀 Projects
+### 🧭 Data Processing Intern — Bank of Guiyang *(May 2023 – Jun 2023, Guiyang, CN)*
+- Developed a **web scraper (Python + Scrapy)** that extracted 100K+ job postings for workforce analysis.  
+- Built a complete data-cleaning and processing pipeline, filtering 1K+ relevant samples.  
+- Deployed the structured dataset via **Flask on Alibaba Cloud** for real-time internal analytics.
 
-- **SynthWave-Maestro** (Recurrent Neural Networks Sound Generator)
-- **Handy-the-Mystic-Hand** (Random Forest Hand Pose PC Control)
-- **The Ride** (Online Tutor Platform)
-- **One More Thing** (Online Calendar)
-- **MyWebCrawler** (Website Crawler)
+## 🎯 Goals
+To become a capable researcher who can contribute to **AI and Psychology**  
+through thoughtful experimentation and rigorous implementation —  
+while continuously refining my technical depth, code structure, and hands-on engineering ability.
 
-_For more details, check out the project repositories linked above._
+---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/haike-yu](https://www.linkedin.com/in/haike-yu)  
+- **Email:** haike.yu@outlook.com  
 
-- **Email**: [haike.yu@outlook.com](mailto:haike.yu@outlook.com)
-- **LinkedIn**: [Haike Yu](https://www.linkedin.com/in/haike-yu)
-- **GitHub**: [RemMyFav](https://github.com/RemMyFav)
+---
 
-## 🏂 Other Interests
+## 🧩 Fun Facts
+- I love exploring how people express emotion through language —  
+  and how models can learn to understand it.  
+- Outside of ML, I enjoy skiing, gaming, and learning how things work from first principles.  
 
-- Languages: English, Chinese
-- Hobbies: Skiing, Gaming, Fitness, Cooking, Coding
+---
+
+💡 *“Curiosity is my compass, resilience is my strength, and excellence is my pursuit.”*
+
+---
