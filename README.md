@@ -48,8 +48,9 @@ I’m aware that growth often comes with discomfort, uncertainty, and detours.
 
 This path hasn’t always been smooth, but it’s one I chose deliberately — guided by curiosity and sustained by genuine interest rather than external pressure.
 
-What keeps me moving forward isn’t the absence of difficulty, but the presence of something I care deeply about.  
+What keeps me moving forward isn’t the absence of difficulty, but the presence of something I care deeply about.
 Holding onto that has taught me patience, resilience, and a quieter kind of persistence.
+
 ---
 
 ## 🌐 Connect with Me
